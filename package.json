@@ -1,0 +1,42 @@
+{
+  "_from": "aramex-api",
+  "_id": "aramex-api@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-EwL1ZDjquXqyD3wUrgvXe76LJX2dd21ij5EMXz/GRFkVYR0+6coqWTzo+YbxRGtFlSJQrCq9UaBLLkIZo8EcTA==",
+  "_location": "/aramex-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "aramex-api",
+    "name": "aramex-api",
+    "escapedName": "aramex-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/aramex-api/-/aramex-api-1.0.4.tgz",
+  "_shasum": "c2515a8ec589f5bd700999e2aa894d9b53661982",
+  "_spec": "aramex-api",
+  "_where": "/var/www/html/gawthani2",
+  "author": {
+    "name": "Gaber abdo"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "strong-soap": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "A wrapper api for Aramex tracking and shipping api",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "aramex-api",
+  "version": "1.0.4"
+}
